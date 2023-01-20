@@ -7,6 +7,8 @@ This is a follow-along project I completed, but styled to my own, and manipulate
 
 Either way, this works great. Hope you enjoy!
 
+To see it in action - https://ab1820.github.io/Calculator-App/
+
 ![Done](https://user-images.githubusercontent.com/114027684/213599263-8176bfca-d077-46cf-97fd-2d0e54d0879c.png)
 
-To see it in action - https://ab1820.github.io/Calculator-App/
+
